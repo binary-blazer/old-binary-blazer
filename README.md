@@ -26,6 +26,4 @@
 [![2021's best Giveaway bot | GiveAways](https://cdn.discordapp.com/attachments/909503780448514101/921355514875609139/1639738588879.png)](https://giveaways-bot.ml/invite)
 # Credits
 
-> If consider using this Bot, make sure to credit me!
->
 > This readme page is not by me, its from [Tomato6966](https://github.com/Tomato6966/)!
