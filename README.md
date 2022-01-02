@@ -14,8 +14,8 @@
   
 ***
 
-## [Discord Server 😎](https://discord.gg/6F2ctFT8u6) | [Website](https://stoneclane.ml)
-<a href="https://discord.gg/6F2ctFT8u6"><img src="https://discord.com/api/guilds/732944567862558754/widget.png?style=banner2"></a>
+## [Discord Server 😎](https://discord.gg/5t6S5T53Kd) | [Website](https://stoneclane.ml)
+<a href="https://discord.gg/5t6S5T53Kd"><img src="https://discord.com/api/guilds/732944567862558754/widget.png?style=banner2"></a>
 
 ***
 
