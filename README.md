@@ -15,7 +15,7 @@
 ***
 
 ## [Discord Server 😎](https://discord.gg/5t6S5T53Kd) | [Website](https://stoneclane.ml)
-<a href="https://canary.discord.com/invite/XMyKxdd2"><img src="https://canary.discord.com/api/guilds/925000826555076629/widget.json"></a>
+<a href="https://discord.gg/uYHNf88vDv"><img src="https://discord.com/api/guilds/925000826555076629/widget.png?style=banner2"></a>
 
 ***
 
