@@ -24,6 +24,7 @@
 > You can always Support me by inviting one of my **own Discord Bots**
 
 [![2021's best Giveaway bot | GiveAways](https://cdn.discordapp.com/attachments/909503780448514101/921355514875609139/1639738588879.png)](https://giveaways-bot.ml/invite)
+[![2022's best Multiple Discord Bot | GiveAways](https://media.discordapp.net/attachments/932058869054726155/936136207958675516/1643262647851.png)](https://dsc.gg/scriptino)
 # Credits
 
 > This readme page is not by me, its from [Tomato6966](https://github.com/Tomato6966/)!
