@@ -2,7 +2,7 @@
   
 ***
 
-- 🔭 I’m currently working on a [**Multiple Feature bot called Scriptino**](https://dsc.gg/scriptino)
+- 🔭 I’m currently working on a [**LavaLink Music bot called Soundpro**](https://soundpro.ml)
   
 
 - 🌱 I’m currently coding in **Javascript** and TypeScript.  
