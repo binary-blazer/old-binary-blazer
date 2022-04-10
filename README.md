@@ -16,7 +16,7 @@
 </a>
 <p><b>You can call me <a style="color: green" href="https://janjytapyt.live">JanjyTapYT<a/> for short, I am a backend developer and a dreamer, I like to learn new things and watch movies.</b></p>
 <h3>
-📖️ I know javascript,vue and react<br>
+📖️ I know javascript,vue and react and few more*<br>
 💙️ I'm friendly, I have a lot of friends <br>
 🔥️ All I want is to share quality repos on github <br>
 🍍️ You can contact me on discord. JanjyTapYT#0001 <br>
