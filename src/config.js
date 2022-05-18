@@ -10,5 +10,5 @@ module.exports = {
   close: `<!--END_SECTION:activity-->`,
   max_lines: 15,
  },
- user: "igorkowalczyk",
+ user: "JanjyTapYT",
 };
