@@ -71,8 +71,8 @@ Over these years I have learned
 | **🏆 Contributions in 2022:** | **557**|
 | **📦 Github Storage:** | **100.8 kB used**|
 | **📝 Total lines of code:** | **1.8 million**|
-| **📚 Public Repositories:** | **18** |
-| **🔑 Private Repositories:** | **only 1** |
+| **📚 Public Repositories:** | **11** |
+| **🔑 Private Repositories:** | **only 2** |
 <details><summary>✨ Show more stats</summary>
 
 #### 🌞 I work most during day 
