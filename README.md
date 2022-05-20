@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm JanjyTapYT
 > This is the place where I opensource stuff and break things :rofl:<br>
 
-[![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/M7kaJDZtyY)
+[![Discord](https://img.shields.io/discord/964581945562501141?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/M7kaJDZtyY)
 [![GitHub followers](https://img.shields.io/github/followers/JanjyTapYT?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/JanjyTapYT?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/StoneclaneD?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/StoneclaneD)
 [![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Fjanjytapyt.live)](https://janjytapyt.live)
