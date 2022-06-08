@@ -12,7 +12,7 @@
 ## 🧐 About
 
 - Hi, I'm JanjyTapYT. I am a 2nd year high school student and I have been spending time with codes for about 2-3 years. I really dont know anything more about me.
-- 👨‍💻 Website: https://janjytapyt.live
+- 👨‍💻 Website: https://janjytapyt.ml
 - 📫 How to reach me: janjytapyt@sdevs.org
   
 ## ⚙️ Technologies I use
