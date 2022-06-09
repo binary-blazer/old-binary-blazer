@@ -153,5 +153,5 @@
   <summary>📈 Latest Activity Graph</summary>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JanjyTapYT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JanjyTapYT&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/JanjyTapYT/"><img alt="JanjyTapYT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JanjyTapYT&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </details>
