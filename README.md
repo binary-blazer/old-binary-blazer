@@ -125,7 +125,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/JanjyTapYT/">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanjyTapYT&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="JanjyTapYT :: Top Streaks" /></a>
+          <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JanjyTapYT&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="JanjyTapYT :: Top Streaks" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/JanjyTapYT/">
@@ -150,5 +150,7 @@
   <summary>📈 Latest Activity Graph</summary>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/JanjyTapYT/"><img alt="JanjyTapYT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JanjyTapYT&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/JanjyTapYT/">
+    <img width="45%" alt="JanjyTapYT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JanjyTapYT&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  </a>
 </details>
