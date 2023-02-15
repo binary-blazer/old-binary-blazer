@@ -129,8 +129,8 @@
         </p>
         <p align="center">
           <a href="https://github.com/JanjyTapYT/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JanjyTapYT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-          <img width="49.5%" src="https://activity-graph.herokuapp.com/graph?username=JanjyTapYT&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JanjyTapYT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+          <img width="45%" src="https://activity-graph.herokuapp.com/graph?username=JanjyTapYT&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
           </a>
        </p>
      <br>
