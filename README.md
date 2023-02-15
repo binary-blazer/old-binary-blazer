@@ -44,8 +44,8 @@
 <div>
 <h2 align="center">🧮 About JanjyTapYT</h2>
  <p align="center">
-  <a href="https://janjytapyt.me" target="blank"><img align="center" alt="link" />
-    <span>Visit my Portfolio for more Informations about me. Click Here.</span>
+  <a href="https://janjytapyt.me" target="blank">
+    <span>Visit my Portfolio for more Informations about me.</span>
   </a>
   </p>
 </div>
