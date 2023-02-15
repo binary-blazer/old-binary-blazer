@@ -44,21 +44,10 @@
 <div>
 <h2 align="center">🧮 About JanjyTapYT</h2>
  <p align="center">
-  <a href="github.com/JanjyTapYT" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/JanjyTapYT/JanjyTapYT?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/JanjyTapYT" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/JanjyTapYT/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
+  <a href="https://janjytapyt.me" target="blank"><img align="center" alt="link" />
+    <span>Visit my Portfolio for more Informations about me. Click Here.</span>
+  </a>
   </p>
-  <p align="center">
-  <a href="github.com/JanjyTapYT" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/JanjyTapYT/JanjyTapYT?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/JanjyTapYT" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/JanjyTapYT/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
 </div>
 </details>
 
