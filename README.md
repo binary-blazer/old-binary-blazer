@@ -16,21 +16,7 @@
     <h2 align="center">😎 you can reach me at:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/JanjyTapYT/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="JanjyTapYT" height="30"/></a>
-      <a href="https://fb.com/JanjyTapYT" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="JanjyTapYT" height="30"/></a>
-      <a href="mailto:janjytapyt@sdevs.org" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="JanjyTapYT" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/janjytap.yt" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="JanjyTapYT" height="30"/></a>
-      <a href="https://twitter.com/StoneclaneD" target="blank"><img align="center"
+<a href="https://twitter.com/JanjyTapYT" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="JanjyTapYT" height="30"/></a>
       <br>
